@@ -1,5 +1,10 @@
-### Hi there 👋
+### James Benjamin Pawlik ###
 
+Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, send cash and job offers to me at (james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](linkedin.com/in/jbpawlik).
+
+I am always looking for collaborators or clients. My interests are in art, design, full-stack development, and obscure/arcane computer games (anyone want to fork DCSS with me?).
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbpawlik)](https://github.com/jbpawlik/github-readme-stats)
 <!--
 **jbpawlik/jbpawlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
