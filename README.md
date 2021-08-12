@@ -2,11 +2,15 @@
   
 # James Benjamin Pawlik #
   
-Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, send cash and job offers to me at [my email](james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](linkedin.com/in/jbpawlik). I am always looking for collaborators or clients. My interests are in art, design, full-stack development, and obscure/arcane computer games (DCSS fork, anyone?).
+Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, [send cash and job offers](james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](linkedin.com/in/jbpawlik). 
+  
+I am a software developer transitioning from a career in education. I'm interested in positions that combine programming with human development, education/training, art, writing, and/or design. I am a strong team member, quick learner, and proficient communicator. I would love to find a position that encourages collaboration on challenging, useful applications with an aim towards improving the general happiness and productivity of humanity. 
+
+  I am always looking for collaborators or clients. My interests are in art, design, full-stack development, and obscure/arcane computer games (DCSS fork, anyone?).
 
 ---------------------------
   
-  # My Current Tech Stack:
+  # Current Tech Stack:
   
 
   ### Languages: 
@@ -37,8 +41,11 @@ Thank you for visiting the home of my personal and professional programming proj
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
+  
+
   
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbpawlik)](https://github.com/jbpawlik/github-readme-stats)
   
 </div>
+ -->
