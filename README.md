@@ -31,7 +31,7 @@ I am a software developer transitioning from a career in education. I'm interest
   
   
   ### [Mario's Fine Foods](https://marios-fine-foods.herokuapp.com)
-  Website for a specialty grocer written in Ruby on Rails and JavaScript using a SQL database and user authentication. For demonstration purposes, you can make yourself an admin by going to http://localhost:3000/admin
+  Website for a specialty grocer written in Ruby on Rails and JavaScript using a SQL database and user authentication.
   <img src="https://raw.githubusercontent.com/jbpawlik/jbpawlik/main/specialtyfoodsproducts-cropped.PNG" alt="Mario's Fine Foods Products Page"/>
   
   ### [Currency X Change](https://jbpawlik.github.io/currency-exchanger/)
