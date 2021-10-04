@@ -4,30 +4,32 @@
   
 Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, [send cash and job offers](james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](linkedin.com/in/jbpawlik). 
   
-I am a software developer transitioning from a career in education. I'm interested in positions that combine programming with human development, education/training, art, writing, and/or design. I am a strong team member, quick learner, and proficient communicator. I would love to find a position that encourages collaboration on challenging, useful applications with an aim towards improving the general happiness and productivity of humanity. 
-
-  I am always looking for collaborators or clients. My interests are in art, design, full-stack development, and obscure/arcane computer games (DCSS fork, anyone?).
-
+I am a software developer transitioning from a career in education. One of my main interests at this time is mobile development using React Native. I'm interested in positions that combine programming with human development, education/training, art, writing, and/or design. I am a strong team member, quick learner, and proficient communicator. I would love to find a position that encourages collaboration on challenging, useful applications with an aim towards improving the general happiness and productivity of humanity.
+  
 ---------------------------
   
   # Tech Stack:
   
   ### Languages: 
   
-  Ruby, JavaScript, HTML/CSS
+  Ruby, JavaScript, HTML/CSS, React, React Native
   
   ### Technologies: 
   
-  Rails, React, SQL/Postgres, Redux, APIs 
+  Rails, SQL/Postgres, NoSQL/Firebase, Redux, APIs 
   
-  ### Working on Learning:
+  ### Learning:
   
-  React Native (for cross-platform mobile development) 
+  Right now my focus is using React Native for cross-platform mobile development 
   
   ---------------------
 
   
 # Recent Projects:
+  
+  ### [SwimNW](https://github.com/jbpawlik/SwimNW
+    A cross-platform mobile app designed for hydrophiles living in or traveling to the Pacific Northwest. Users can sign up, see swimming spots, and add their own. Due to the sensitive nature of disclosing private swimming holes, SwimNW has a circle-of-trust system whereby users who contribute to the site can access swims marked as Protected, or enter Private swims that only they can access. Soon to be available on Google Play and the App Store.
+  <img src="https://github.com/jbpawlik/SwimNW/blob/main/src/assets/images/SwimNW.png?raw=true" alt="SwimNW">
   
   
   ### [Mario's Fine Foods](https://marios-fine-foods.herokuapp.com)
