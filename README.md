@@ -2,7 +2,7 @@
   
 # James Benjamin Pawlik #
   
-Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, [send cash and job offers](mailto:james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](linkedin.com/in/jbpawlik). 
+Thank you for visiting the home of my personal and professional programming projects. If you love what you see and cannot get enough, [send cash and job offers](mailto:james.benjamin.pawlik@gmail.com) or link up with me on everyone's favorite necessary evil, [LinkedIn](https://linkedin.com/in/jbpawlik). 
   
 I am a software developer transitioning from a career in education. One of my main interests at this time is mobile development using React Native. I'm interested in positions that combine programming with human development, education/training, art, writing, and/or design. I am a strong team member, quick learner, and proficient communicator. I would love to find a position that encourages collaboration on challenging, useful applications with an aim towards improving the general happiness and productivity of humanity.
   
