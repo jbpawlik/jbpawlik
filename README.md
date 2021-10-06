@@ -28,7 +28,7 @@ I am a software developer transitioning from a career in education. One of my ma
 # Recent Projects:
   
   ### [SwimNW](https://github.com/jbpawlik/SwimNW)
-A cross-platform mobile app designed for hydrophiles living in or traveling to the Pacific Northwest. Users can sign up, see swimming spots, and add their own. Due to the sensitive nature of disclosing private swimming holes, SwimNW has a circle-of-trust system whereby users who contribute to the site can access swims marked as Protected, or enter Private swims that only they can access. Soon to be available on Google Play and the App Store.
+A cross-platform mobile app designed for hydrophiles living in or traveling to the Pacific Northwest. Users can sign up, see swimming spots, and add their own. Due to the sensitive nature of disclosing private swimming holes, SwimNW has a circle-of-trust system whereby users who contribute to the site can access swims marked as Protected, or enter Private swims that only they can access. Available on Google Play (and soon to be available on the App Store).
   <img src="https://github.com/jbpawlik/SwimNW/blob/main/src/assets/images/SwimNW.png?raw=true" alt="SwimNW">
   
   
