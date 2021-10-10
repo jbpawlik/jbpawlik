@@ -16,7 +16,7 @@ I am a software developer transitioning from a career in education. One of my ma
   
   ### Technologies: 
   
-  Rails, SQL/Postgres, NoSQL/Firebase, Redux, APIs 
+  Rails, SQL/Postgres, NoSQL/Firebase, Redux, JSON, GraphQL, RESTful API
   
   ### Learning:
   
